@@ -18,7 +18,7 @@ const PROJECTS = [
     id: "01", name: "EchoMind", tagline: "Chat with your documents using AI",
     category: "AI · Full Stack", year: "2026",
     stack: ["React", "Node.js", "MongoDB", "Groq", "RAG", "BM25"],
-    liveUrl: "https://echomind.onrender.com",
+    liveUrl: "https://echomind-pi.vercel.app",
     githubUrl: "https://github.com/harshrajput018/echomind",
     live: true, accent: "#2A5C45", accentBg: "#EBF4EF",
     desc: "A full-stack 'Second Brain' — users upload PDFs and documents, then chat with their knowledge base through a custom-built RAG pipeline. Every AI response cites the exact source chunk.",
